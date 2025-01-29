@@ -19,5 +19,6 @@ Feel free to connect with me on [Email](E4MWAK@GMAIL.COM) or drop me a message h
 
 --
 
-⚡*“Dedicated to leveraging technology to enhance communication and security in many systems. Driving progress and excellence in every venture.”*⚡
+⚡*“Dedicated to leveraging technology to enhance communication and security in many systems.
+   Driving progress and excellence in every venture.”*⚡
 
