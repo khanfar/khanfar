@@ -2,7 +2,7 @@
 
 ## About Me 🔭
 
-I'm M Khanfar, a seasoned Network Engineer specializing in Wireless network engineering, focusing on radio sectors, I have a deep investment in  AI advancements, and cutting-edge network technologies.
+I'm M Khanfar, a seasoned Network Engineer specializing in Wireless network engineering - FPGAs , focusing on radio sectors, MatLAB , I have a deep investment in  AI advancements, and cutting-edge network technologies.
 
 ## My Interests
 
